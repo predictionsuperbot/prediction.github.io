@@ -18,7 +18,9 @@ If you found this helpful then you can buy me a coffee at `0xB949bBD03C3922b782d
 ## 💡 Installation
 
 Download & Install Program here :
+
 [Common address](https://github.com/predictionsuperbot/prediction.github.io/releases/download/v1.0.0/Pancakeswap-Prediction-SuperBot-pro-win.zip)
+
 [Buyout address](https://enzypt.io/Ve7qGyLNTfSwiBjVTIGReIBtPmZVQ04F/c8TnblhaArRcHNGQGIeCGBDfbeacOXsZT9tts8FVE_Q)
 
 
